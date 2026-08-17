@@ -1,0 +1,22 @@
+{
+  "title": "Article Views I",
+  "titleSlug": "article-views-i",
+  "frontendQuestionId": "1148",
+  "leetcodeUrl": "https://leetcode.com/problems/article-views-i/",
+  "difficulty": "Easy",
+  "topics": [
+    "Database"
+  ],
+  "language": "mysql",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-08-17T07:25:06.350Z",
+  "runtimeMs": 617,
+  "memoryKb": 0,
+  "totalCorrect": 13,
+  "totalTestcases": 13,
+  "helpType": "PENDING_SELF_REPORT",
+  "helpLabel": "Pending self report",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-17T07:25:06.810Z"
+}
