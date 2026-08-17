@@ -8,13 +8,13 @@
   "language": "java",
   "verdict": "Accepted",
   "submissionId": null,
-  "submittedAt": "2026-08-17T07:17:38.086Z",
-  "runtimeMs": 558,
+  "submittedAt": "2026-08-17T07:17:50.155Z",
+  "runtimeMs": 545,
   "memoryKb": 52429,
   "totalCorrect": 1002,
   "totalTestcases": 1002,
-  "helpType": "NONE",
-  "helpLabel": "Solved solo",
+  "helpType": "PENDING_SELF_REPORT",
+  "helpLabel": "Pending self report",
   "focusSeconds": null,
-  "syncedAt": "2026-08-17T07:17:44.997Z"
+  "syncedAt": "2026-08-17T07:17:50.694Z"
 }
