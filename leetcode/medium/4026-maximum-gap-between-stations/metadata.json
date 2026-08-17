@@ -1,0 +1,20 @@
+{
+  "title": "Maximum Gap Between Stations",
+  "titleSlug": "maximum-gap-between-stations",
+  "frontendQuestionId": "4026",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-gap-between-stations/",
+  "difficulty": "Medium",
+  "topics": [],
+  "language": "java",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-08-17T07:17:38.086Z",
+  "runtimeMs": 558,
+  "memoryKb": 52429,
+  "totalCorrect": 1002,
+  "totalTestcases": 1002,
+  "helpType": "PENDING_SELF_REPORT",
+  "helpLabel": "Pending self report",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-17T07:17:38.681Z"
+}
