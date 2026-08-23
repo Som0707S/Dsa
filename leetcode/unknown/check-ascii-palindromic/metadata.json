@@ -1,0 +1,20 @@
+{
+  "title": "check-ascii-palindromic",
+  "titleSlug": "check-ascii-palindromic",
+  "frontendQuestionId": null,
+  "leetcodeUrl": "https://leetcode.com/problems/check-ascii-palindromic/",
+  "difficulty": "Unknown",
+  "topics": [],
+  "language": "java",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-08-23T02:38:11.293Z",
+  "runtimeMs": 39,
+  "memoryKb": 48538,
+  "totalCorrect": 998,
+  "totalTestcases": 998,
+  "helpType": "HINT",
+  "helpLabel": "Needed hint",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-23T02:38:16.046Z"
+}
