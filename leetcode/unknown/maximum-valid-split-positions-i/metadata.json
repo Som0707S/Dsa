@@ -1,0 +1,20 @@
+{
+  "title": "maximum-valid-split-positions-i",
+  "titleSlug": "maximum-valid-split-positions-i",
+  "frontendQuestionId": null,
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-valid-split-positions-i/",
+  "difficulty": "Unknown",
+  "topics": [],
+  "language": "java",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-08-29T15:22:04.893Z",
+  "runtimeMs": 222,
+  "memoryKb": 48128,
+  "totalCorrect": 704,
+  "totalTestcases": 704,
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T15:22:14.224Z"
+}
