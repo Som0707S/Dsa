@@ -1,0 +1,20 @@
+{
+  "title": "lexicographically-largest-string-after-pair-transformations",
+  "titleSlug": "lexicographically-largest-string-after-pair-transformations",
+  "frontendQuestionId": null,
+  "leetcodeUrl": "https://leetcode.com/problems/lexicographically-largest-string-after-pair-transformations/",
+  "difficulty": "Unknown",
+  "topics": [],
+  "language": "java",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-08-29T15:20:05.862Z",
+  "runtimeMs": 519,
+  "memoryKb": 135987,
+  "totalCorrect": 999,
+  "totalTestcases": 999,
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T15:20:10.884Z"
+}
