@@ -1,0 +1,20 @@
+{
+  "title": "minimum-bishop-moves-to-reach-target",
+  "titleSlug": "minimum-bishop-moves-to-reach-target",
+  "frontendQuestionId": null,
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-bishop-moves-to-reach-target/",
+  "difficulty": "Unknown",
+  "topics": [],
+  "language": "java",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-08-29T14:40:40.705Z",
+  "runtimeMs": 1,
+  "memoryKb": 45261,
+  "totalCorrect": 999,
+  "totalTestcases": 999,
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T14:40:47.962Z"
+}
