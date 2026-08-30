@@ -20,7 +20,6 @@ class Solution {
         if (total + nums[i] <= sum)
             take = f(i + 1, total + nums[i], nums, sum);
 
-        // DIVIDE first, then MULTIPLY
         int currSum = nums[i];
         int op = 0;
 
