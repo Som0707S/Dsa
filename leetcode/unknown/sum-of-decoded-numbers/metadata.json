@@ -1,0 +1,20 @@
+{
+  "title": "sum-of-decoded-numbers",
+  "titleSlug": "sum-of-decoded-numbers",
+  "frontendQuestionId": null,
+  "leetcodeUrl": "https://leetcode.com/problems/sum-of-decoded-numbers/",
+  "difficulty": "Unknown",
+  "topics": [],
+  "language": "java",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-08-30T02:56:54.724Z",
+  "runtimeMs": 117,
+  "memoryKb": 90419,
+  "totalCorrect": 993,
+  "totalTestcases": 993,
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-30T02:57:20.671Z"
+}
