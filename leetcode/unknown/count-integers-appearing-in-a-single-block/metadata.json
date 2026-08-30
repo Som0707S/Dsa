@@ -1,0 +1,20 @@
+{
+  "title": "count-integers-appearing-in-a-single-block",
+  "titleSlug": "count-integers-appearing-in-a-single-block",
+  "frontendQuestionId": null,
+  "leetcodeUrl": "https://leetcode.com/problems/count-integers-appearing-in-a-single-block/",
+  "difficulty": "Unknown",
+  "topics": [],
+  "language": "java",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-08-30T02:41:03.144Z",
+  "runtimeMs": 1,
+  "memoryKb": 44851,
+  "totalCorrect": 529,
+  "totalTestcases": 529,
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-30T02:41:09.934Z"
+}
