@@ -1,0 +1,22 @@
+{
+  "title": "Replace Employee ID With The Unique Identifier",
+  "titleSlug": "replace-employee-id-with-the-unique-identifier",
+  "frontendQuestionId": "1378",
+  "leetcodeUrl": "https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/",
+  "difficulty": "Easy",
+  "topics": [
+    "Database"
+  ],
+  "language": "Unknown",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-09-04T15:29:54.018Z",
+  "runtimeMs": null,
+  "memoryKb": null,
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "focusSeconds": null,
+  "syncedAt": "2026-09-04T15:30:02.128Z"
+}
