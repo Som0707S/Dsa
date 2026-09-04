@@ -1,0 +1,22 @@
+{
+  "title": "Department Highest Salary",
+  "titleSlug": "department-highest-salary",
+  "frontendQuestionId": "184",
+  "leetcodeUrl": "https://leetcode.com/problems/department-highest-salary/",
+  "difficulty": "Medium",
+  "topics": [
+    "Database"
+  ],
+  "language": "Unknown",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-09-04T15:17:20.768Z",
+  "runtimeMs": null,
+  "memoryKb": null,
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "PENDING_SELF_REPORT",
+  "helpLabel": "Pending self report",
+  "focusSeconds": null,
+  "syncedAt": "2026-09-04T15:17:21.596Z"
+}
