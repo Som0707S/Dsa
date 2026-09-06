@@ -1,0 +1,20 @@
+{
+  "title": "count-rotations-with-exactly-k-equal-adjacent-pairs",
+  "titleSlug": "count-rotations-with-exactly-k-equal-adjacent-pairs",
+  "frontendQuestionId": null,
+  "leetcodeUrl": "https://leetcode.com/problems/count-rotations-with-exactly-k-equal-adjacent-pairs/",
+  "difficulty": "Unknown",
+  "topics": [],
+  "language": "Unknown",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-09-06T02:38:54.955Z",
+  "runtimeMs": null,
+  "memoryKb": null,
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "focusSeconds": null,
+  "syncedAt": "2026-09-06T02:39:06.004Z"
+}

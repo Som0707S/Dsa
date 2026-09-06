@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.com/problems/count-rotations-with-exactly-k-equal-adjacent-pairs/">count-rotations-with-exactly-k-equal-adjacent-pairs</a></h2><h3>Unknown</h3><hr>Problem description not found.
