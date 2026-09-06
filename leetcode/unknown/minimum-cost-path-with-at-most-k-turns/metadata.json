@@ -1,0 +1,20 @@
+{
+  "title": "minimum-cost-path-with-at-most-k-turns",
+  "titleSlug": "minimum-cost-path-with-at-most-k-turns",
+  "frontendQuestionId": null,
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-path-with-at-most-k-turns/",
+  "difficulty": "Unknown",
+  "topics": [],
+  "language": "Unknown",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-09-06T03:53:43.609Z",
+  "runtimeMs": null,
+  "memoryKb": null,
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "focusSeconds": null,
+  "syncedAt": "2026-09-06T03:53:49.223Z"
+}
