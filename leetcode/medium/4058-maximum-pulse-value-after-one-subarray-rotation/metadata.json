@@ -4,11 +4,15 @@
   "frontendQuestionId": "4058",
   "leetcodeUrl": "https://leetcode.com/problems/maximum-pulse-value-after-one-subarray-rotation/",
   "difficulty": "Medium",
-  "topics": [],
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Prefix Sum"
+  ],
   "language": "Unknown",
   "verdict": "Accepted",
   "submissionId": null,
-  "submittedAt": "2026-09-22T16:21:51.774Z",
+  "submittedAt": "2026-10-01T14:23:54.263Z",
   "runtimeMs": null,
   "memoryKb": null,
   "totalCorrect": null,
@@ -16,5 +20,5 @@
   "helpType": "PENDING_SELF_REPORT",
   "helpLabel": "Pending self report",
   "focusSeconds": null,
-  "syncedAt": "2026-09-22T16:21:54.058Z"
+  "syncedAt": "2026-10-01T14:23:56.459Z"
 }
